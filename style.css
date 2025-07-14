@@ -24,6 +24,10 @@ html {
   scroll-behavior: smooth;
 }
 
+.avatar {
+  width: 200px;
+}
+
 .container {
   max-width: 1440px;
   margin: 0 auto;
